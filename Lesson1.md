@@ -47,3 +47,19 @@ dra hamar proc em sarqum
 
 
 Ete query-i ardyunqum mets dataset em stanum, entity-n ardyunavet che
+st.phone.add
+```C#
+db.Entry(st).State=EntityDtate.Modified;
+```
+miayn ayd masn update kani, ev optimal e, qani vor lracucich chenq kardum
+#### [DbContext.Entry Method (Object)](https://msdn.microsoft.com/en-us/library/gg696238(v=vs.113).aspx)
+
+
+```c#
+await db.SaveChangesAsync();
+```
+
+save-Y ciklic durs enq anum, vor amen angam bazanerin chdimi
+
+
+
