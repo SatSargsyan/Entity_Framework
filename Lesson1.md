@@ -25,3 +25,16 @@
 And so in the app.config  file we can write ="DefaultConnection" nam-i pokharen
 ####  If we want, that 
 
+
+
+
+
+
+
+#### publish enq anum
+
+#### ON DELETE CASCADE  GRELOV  KJNJI STUDENTI TVYALNERY PHone table-ic kjnji hamarnery ayn student-i tvyalnery, vorin jnjel enq studentner-i table-ic
+
+
+update model from database
+validate
