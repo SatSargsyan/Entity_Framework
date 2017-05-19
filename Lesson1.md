@@ -38,3 +38,12 @@ And so in the app.config  file we can write ="DefaultConnection" nam-i pokharen
 
 update model from database
 validate
+
+
+#### Unem 100000 togh, incpes jnjel entity-ov
+
+Ete remove anem, petq e nakh kardal, vorn optimal che,
+dra hamar proc em sarqum 
+
+
+Ete query-i ardyunqum mets dataset em stanum, entity-n ardyunavet che
